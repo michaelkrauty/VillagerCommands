@@ -1,0 +1,9 @@
+name: VillagerCommands
+version: 1.0
+author: michaelkrauty
+main: me.michaelkrauty.VillagerCommands.Main
+commands:
+  villagercommands:
+    aliases: [villagercommands, villagercommand, vc]
+    description: the VillagerCommands command
+    usage: /<command>
